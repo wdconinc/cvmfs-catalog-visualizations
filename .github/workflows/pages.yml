@@ -74,6 +74,9 @@ jobs:
             repo: soft.computecanada.ca
             max_catalogs: 10000
           - stratum1: https://s1osggoc-cvmfs.openhtc.io
+            repo: eic.opensciencegrid.org
+            max_catalogs: 10000
+          - stratum1: https://s1osggoc-cvmfs.openhtc.io
             repo: oasis.opensciencegrid.org
             max_catalogs: 10000
           - stratum1: https://s1osggoc-cvmfs.openhtc.io
